@@ -23,4 +23,4 @@ Note that all files above include unit tests.
 
 The files `demo.ipynb` and `experiments.ipynb` are the best place to start. The former exemplifies how to use the code written in this project, and the latter allows the user to experiment with the size of data sets. The example below shows that this implementation runs in about one minute given a simplicial complex with 3000 simplices.
 
-![experiment](images/test1.png)
+![experiment](images/test2.png)
