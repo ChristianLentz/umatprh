@@ -4,7 +4,7 @@
 
 This repository utilizes the [Open Applied Topology](https://github.com/pnnl/oat_pnnl) project to implement a method to compute persistent relative homology via the [U-match Decomposition](https://arxiv.org/abs/2108.08831).
 
-To see a prior implementation of a special case, see [this](https://github.com/ChristianLentz/Umatch_PersistentRelativeHomology).
+To see a prior implementation of a special case, see [this](https://github.com/ChristianLentz/Umatch_PersistentRelativeHomology) repository.
 
 ## Contributions
 
